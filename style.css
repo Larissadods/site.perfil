@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Margarine&display=swap');
+
+body {
+    background-color: rgb(247, 172, 207);
+    font-family: "DynaPuff", sans-serif;
+}
+
+.titulo {
+    font-size: 60px;
+    font-style: italic;
+    color: white;
+    margin-left: 40%;
+}
+
+.euo {
+    width: 25%;
+    margin-left: 8%;
+    border-radius: 15%;
+}
+
+.principal {
+    text-align: center;
+}
